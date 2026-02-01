@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Backend Developer** and Information Technology student at **VNU-HCM University of Science**. I specialize in building high-performance systems and automated frameworks with a focus on performance, scalability, and developer productivity.
+I am a **System Architect** and Information Technology student at **VNU-HCM University of Science**. I specialize in building high-performance systems and automated frameworks with a focus on performance, scalability, and developer productivity.
 
 - 🎓 **Education:** University of Science (VNU-HCMUS) - IT (2023-2027).
 - 🔭 **Main Project:** Author of **LuciferCore**, a modular high-performance backend framework.
